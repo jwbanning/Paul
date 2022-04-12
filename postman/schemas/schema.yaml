@@ -1,7 +1,7 @@
 openapi: 3.0.0
 info:
   title: Products
-  description: This is the 
+  description: This is the This is new content 
   version: '1.0'
 servers:
   - url: '{{baseUrl}}'
